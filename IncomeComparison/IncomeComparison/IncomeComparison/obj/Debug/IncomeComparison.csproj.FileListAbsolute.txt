@@ -1,0 +1,6 @@
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparison\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe.config
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparison\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.exe
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparison\IncomeComparison\IncomeComparison\bin\Debug\IncomeComparison.pdb
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparison\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparison\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.exe
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeComparison\IncomeComparison\IncomeComparison\obj\Debug\IncomeComparison.pdb
