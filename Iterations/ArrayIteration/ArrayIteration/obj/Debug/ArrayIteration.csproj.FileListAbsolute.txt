@@ -1,0 +1,6 @@
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\ArrayIteration\ArrayIteration\bin\Debug\ArrayIteration.exe.config
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\ArrayIteration\ArrayIteration\bin\Debug\ArrayIteration.exe
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\ArrayIteration\ArrayIteration\bin\Debug\ArrayIteration.pdb
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\ArrayIteration\ArrayIteration\obj\Debug\ArrayIteration.csproj.CoreCompileInputs.cache
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\ArrayIteration\ArrayIteration\obj\Debug\ArrayIteration.exe
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Iterations\ArrayIteration\ArrayIteration\obj\Debug\ArrayIteration.pdb
