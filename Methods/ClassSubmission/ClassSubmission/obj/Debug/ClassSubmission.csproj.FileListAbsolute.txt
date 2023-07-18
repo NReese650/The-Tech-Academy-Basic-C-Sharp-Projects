@@ -1,0 +1,7 @@
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\ClassSubmission\ClassSubmission\bin\Debug\ClassSubmission.exe.config
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\ClassSubmission\ClassSubmission\bin\Debug\ClassSubmission.exe
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\ClassSubmission\ClassSubmission\bin\Debug\ClassSubmission.pdb
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\ClassSubmission\ClassSubmission\obj\Debug\ClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\ClassSubmission\ClassSubmission\obj\Debug\ClassSubmission.exe
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\ClassSubmission\ClassSubmission\obj\Debug\ClassSubmission.pdb
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\ClassSubmission\ClassSubmission\obj\Debug\ClassSubmission.csproj.AssemblyReference.cache
