@@ -17,15 +17,29 @@ namespace TwoNumbers
             string number2Input = Console.ReadLine();
             int number2 = 0;
 
-            // Parse the second number if provided
-            if (!string.IsNullOrWhiteSpace(number2Input))
-                number2 = Convert.ToInt32(number2Input);
+            // Check if the second number is provided
+            if (string.IsNullOrWhiteSpace(number2Input))
+            {
+                // If no input provided, call the method with one parameter
+                int result = math.Operation(number1);
+                Console.WriteLine("Result: " + result);
+            }
+            else
+            {
+                // If input provided, parse the number
+                bool parsed = int.TryParse(number2Input, out number2);
+                if (!parsed)
+                {
+                    Console.WriteLine("Invalid input. The provided value is not a valid integer.");
+                    return;
+                }
 
-            // Call the method in the class, passing in the numbers
-            int result = math.Operation(number1, number2);
+                // Call the method with both parameters
+                int result = math.Operation(number1, number2);
+                Console.WriteLine("Result: " + result);
+            }
 
-            // Display the result
-            Console.WriteLine("Result: " + result);
+            
 
             Console.ReadLine();
         }
