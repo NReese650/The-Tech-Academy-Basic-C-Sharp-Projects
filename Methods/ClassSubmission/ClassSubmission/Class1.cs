@@ -12,3 +12,13 @@ public class Divide
         result = data / 2.0;
     }
 }
+
+
+public static class StaticMultiplier
+{
+    public static void MultiplyByTwo(int data, out int result)
+    {
+        result = data * 2;
+        Console.WriteLine(result);
+    }
+}

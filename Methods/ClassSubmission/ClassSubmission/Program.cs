@@ -22,6 +22,9 @@ namespace ClassSubmission
             {
                 // Call the DivideByTwo method on the entered number
                 output.DivideByTwo(number, out int result);
+
+                // Call the static MultiplyByTwo method on the entered number
+                StaticMultiplier.MultiplyByTwo(number, out int staticResult);
             }
             else
             {
