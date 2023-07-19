@@ -12,4 +12,12 @@ namespace TwoNumbers
             return result;
         }
     }
+
+    public static class StaticDivider
+    {
+        public static void DivideByTwo(int data, out int result)
+        {
+            result = data / 2;
+        }
+    }
 }

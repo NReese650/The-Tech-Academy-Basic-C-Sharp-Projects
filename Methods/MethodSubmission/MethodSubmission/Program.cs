@@ -39,7 +39,13 @@ namespace TwoNumbers
                 Console.WriteLine("Result: " + result);
             }
 
-            
+            // Call the static DivideByTwo method from StaticDivider class
+            StaticDivider.DivideByTwo(number1, out int resultStatic);
+
+            // Display the static result
+            Console.WriteLine("Static Result: " + resultStatic);
+
+
 
             Console.ReadLine();
         }

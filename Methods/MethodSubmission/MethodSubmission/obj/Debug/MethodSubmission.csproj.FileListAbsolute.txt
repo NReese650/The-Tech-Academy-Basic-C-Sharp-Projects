@@ -4,3 +4,4 @@ C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The
 C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\MethodSubmission\MethodSubmission\obj\Debug\MethodSubmission.csproj.CoreCompileInputs.cache
 C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\MethodSubmission\MethodSubmission\obj\Debug\MethodSubmission.exe
 C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\MethodSubmission\MethodSubmission\obj\Debug\MethodSubmission.pdb
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\MethodSubmission\MethodSubmission\obj\Debug\MethodSubmission.csproj.AssemblyReference.cache
