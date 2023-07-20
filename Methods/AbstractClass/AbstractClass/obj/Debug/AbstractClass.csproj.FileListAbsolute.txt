@@ -1,0 +1,6 @@
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb

@@ -13,8 +13,12 @@ namespace Project8
             TwentyOneGame game = new TwentyOneGame();
             game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
             game.ListPlayers();
-            game.Play();
             Console.ReadLine();
+
+
+
+            //game.Play();
+            //Console.ReadLine();
 
 
             //    Deck deck = new Deck();
