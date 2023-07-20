@@ -16,7 +16,7 @@ namespace AbstractClass
             // Calling the SayName() method on the employee object
             employee.SayName();
 
-            // Keeping the console window open
+            
             Console.ReadLine();
         }
     }
