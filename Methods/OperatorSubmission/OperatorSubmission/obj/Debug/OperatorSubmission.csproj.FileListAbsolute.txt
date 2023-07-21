@@ -1,0 +1,7 @@
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\OperatorSubmission\OperatorSubmission\bin\Debug\OperatorSubmission.exe.config
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\OperatorSubmission\OperatorSubmission\bin\Debug\OperatorSubmission.exe
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\OperatorSubmission\OperatorSubmission\bin\Debug\OperatorSubmission.pdb
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\OperatorSubmission\OperatorSubmission\obj\Debug\OperatorSubmission.csproj.AssemblyReference.cache
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\OperatorSubmission\OperatorSubmission\obj\Debug\OperatorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\OperatorSubmission\OperatorSubmission\obj\Debug\OperatorSubmission.exe
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\OperatorSubmission\OperatorSubmission\obj\Debug\OperatorSubmission.pdb
