@@ -27,7 +27,7 @@ namespace OperatorSubmission
 
             // Display the results
             Console.WriteLine("Are the employees equal? " + areEqual);
-            Console.WriteLine("Are the employees not equal? " + areNotEqual);
+            Console.WriteLine("Are the employees different? " + areNotEqual);
 
             Console.ReadLine();
         }
