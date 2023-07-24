@@ -12,9 +12,7 @@ namespace OperatorSubmission
         // Overloading the "==" operator to compare Employee objects based on their Id property
         public static bool operator ==(Employee emp1, Employee emp2)
         {
-            if (ReferenceEquals(emp1, null) && ReferenceEquals(emp2, null))
-                return true;
-            if (ReferenceEquals(emp1, null) || ReferenceEquals(emp2, null))
+            if (emp1 is null || emp2 is null)
                 return false;
 
             return emp1.Id == emp2.Id;
@@ -23,7 +21,11 @@ namespace OperatorSubmission
         // Overloading the "!=" operator by negating the result of the "=="
         public static bool operator !=(Employee emp1, Employee emp2)
         {
-            return !(emp1 == emp2);
+            // If either emp1 or emp2 is null, return true
+            if(emp1 is null || emp2 is null)
+                return true;
+
+            return emp1.Id != emp2.Id;
         }
     }
 }
