@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A0693DAF-3AC5-4720-9D43-C68C9587FD1E}</ProjectGuid>
+    <ProjectGuid>{37413492-9134-4B64-AAED-611ED20B1224}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Project8</RootNamespace>
-    <AssemblyName>Project8</AssemblyName>
+    <RootNamespace>ConstructorSubmission</RootNamespace>
+    <AssemblyName>ConstructorSubmission</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,12 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Casino\Casino.csproj">
-      <Project>{76431060-d761-4d17-9b7e-0ff5067cfb0e}</Project>
-      <Name>Casino</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

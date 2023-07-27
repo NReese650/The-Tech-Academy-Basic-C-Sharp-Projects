@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using Casino;
 
 namespace Project8
 {
@@ -8,7 +9,6 @@ namespace Project8
     {
         static void Main(string[] args)
         {
-            
             Console.WriteLine("Welcome to the Grand Hotel and Casino. Please tell me your name");
             string playerName = Console.ReadLine();
 

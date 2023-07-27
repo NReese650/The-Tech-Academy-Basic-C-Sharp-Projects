@@ -5,3 +5,6 @@ C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The
 C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\Project8\Project8\bin\Debug\Project8.pdb
 C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\Project8\Project8\obj\Debug\Project8.exe
 C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\Project8\Project8\obj\Debug\Project8.pdb
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\Project8\Project8\bin\Debug\Casino.dll
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\Project8\Project8\bin\Debug\Casino.pdb
+C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\Project8\Project8\obj\Debug\Project8.csproj.CopyComplete
