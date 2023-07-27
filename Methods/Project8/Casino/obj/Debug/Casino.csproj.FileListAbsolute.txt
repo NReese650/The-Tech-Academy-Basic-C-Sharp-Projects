@@ -3,4 +3,3 @@ C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The
 C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\Project8\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\Project8\Casino\obj\Debug\Casino.dll
 C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\Project8\Casino\obj\Debug\Casino.pdb
-C:\Users\nickr\OneDrive\Tech Academy\The Tech Academy Basic C-Sharp Projects\The-Tech-Academy-Basic-C-Sharp-Projects\Methods\Project8\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
