@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
 namespace Project8
 {
@@ -8,23 +9,30 @@ namespace Project8
         static void Main(string[] args)
         {
             
-            Card card1 = new Card();
-            Card card2 = card1;
-            card1.Face = Face.Eight;
-            card2.Face = Face.King;
+            Console.WriteLine("Welcome to the Grand Hotel and Casino. Please tell me your name");
+            string playerName = Console.ReadLine();
 
-            Console.WriteLine(card1.Face);
+            Console.WriteLine("How much money will you be playing with today?");
+            int bank = Convert.ToInt32(Console.ReadLine());
 
-
-            //Deck deck = new Deck();
-            //deck.Shuffle(3);
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-            Console.ReadLine();
+            Console.WriteLine("Hello {0}. Would you like to play a game of 21?", playerName);
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
+            {
+                Player player = new Player(playerName, bank);
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for playing!");
+            }
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
+            Console.Read();
+         
         }
 
     }
