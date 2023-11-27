@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nickr\\source\\repos\\ChallengeSubmission\\ChallengeSubmission.csproj",
+      "projectUniqueName": "C:\\Users\\nickr\\OneDrive\\Tech Academy\\The Tech Academy Basic C-Sharp Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\CSharpChallengeSubmission\\ChallengeSubmission.csproj",
       "projectName": "ChallengeSubmission",
-      "projectPath": "C:\\Users\\nickr\\source\\repos\\ChallengeSubmission\\ChallengeSubmission.csproj",
+      "projectPath": "C:\\Users\\nickr\\OneDrive\\Tech Academy\\The Tech Academy Basic C-Sharp Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\CSharpChallengeSubmission\\ChallengeSubmission.csproj",
       "packagesPath": "C:\\Users\\nickr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nickr\\source\\repos\\ChallengeSubmission\\obj\\",
+      "outputPath": "C:\\Users\\nickr\\OneDrive\\Tech Academy\\The Tech Academy Basic C-Sharp Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\CSharpChallengeSubmission\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
