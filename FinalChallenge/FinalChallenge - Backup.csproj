@@ -6,13 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <None Remove="App.config" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="App.config">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
   </ItemGroup>
 
 </Project>

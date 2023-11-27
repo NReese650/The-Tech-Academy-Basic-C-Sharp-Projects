@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nickr\\source\\repos\\FinalChallenge\\FinalChallenge.csproj": {}
+    "C:\\Users\\nickr\\OneDrive\\Tech Academy\\The Tech Academy Basic C-Sharp Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nickr\\source\\repos\\FinalChallenge\\FinalChallenge.csproj": {
+    "C:\\Users\\nickr\\OneDrive\\Tech Academy\\The Tech Academy Basic C-Sharp Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nickr\\source\\repos\\FinalChallenge\\FinalChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\nickr\\OneDrive\\Tech Academy\\The Tech Academy Basic C-Sharp Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge.csproj",
         "projectName": "FinalChallenge",
-        "projectPath": "C:\\Users\\nickr\\source\\repos\\FinalChallenge\\FinalChallenge.csproj",
+        "projectPath": "C:\\Users\\nickr\\OneDrive\\Tech Academy\\The Tech Academy Basic C-Sharp Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\FinalChallenge\\FinalChallenge.csproj",
         "packagesPath": "C:\\Users\\nickr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nickr\\source\\repos\\FinalChallenge\\obj\\",
+        "outputPath": "C:\\Users\\nickr\\OneDrive\\Tech Academy\\The Tech Academy Basic C-Sharp Projects\\The-Tech-Academy-Basic-C-Sharp-Projects\\FinalChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
