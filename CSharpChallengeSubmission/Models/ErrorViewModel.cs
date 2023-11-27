@@ -1,6 +1,6 @@
 using System;
 
-namespace CSharpChallengeSubmission.Models
+namespace ChallengeSubmission.Models
 {
     public class ErrorViewModel
     {
